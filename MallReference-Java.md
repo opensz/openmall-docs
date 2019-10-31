@@ -26,6 +26,12 @@ sdb是一个轻量级的在renren-fast基础上利用jfinal架构二次开发的
 
 https://github.com/yjjdick/sdb-mall
 
+* Open-Shop
+
+Open-Shop小程序商城，包括：分销（支持三级）、团购（拼多多模式）、秒杀、优惠券、等功能，前后端全部开源。做全网最开源、最稳定、功能做强大的开源小程序商城。
+
+https://gitee.com/old-peanut/wechat_applet__open_source
+
 * mall4j (双协议，AGPLv3)
 
 一个基于spring boot、spring oauth2.0、mybatis、redis的轻量级、前后端分离、防范xss攻击、拥有分布式锁，为生产环境多实例完全准备，支持docker部署，数据库为b2b2c设计，拥有完整sku和下单流程的完全开源商城。
@@ -60,6 +66,13 @@ Apache OFBiz is a suite of business applications flexible enough to be used acro
 https://github.com/apache/ofbiz
 
 https://ofbiz.apache.org/
+
+* 华夏ERP/jshERP 
+
+华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
+http://www.huaxiaerp.com
+
+https://gitee.com/jishenghua/JSH_ERP
 
 
 

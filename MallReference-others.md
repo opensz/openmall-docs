@@ -4,6 +4,13 @@
 
 https://github.com/magento/magento2
 
+* Open Cart (GPL-3.0)
+
+(PHP) A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution. 
+https://www.opencart.com/
+
+https://github.com/opencart/opencart
+
 ## 其他电商系统参考
 
 * DSC大商创
