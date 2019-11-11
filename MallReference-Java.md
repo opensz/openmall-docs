@@ -57,6 +57,13 @@ https://gitee.com/fuyang_lipengjun/platform
 
 https://fly2you.cn/
 
+* uni-mall
+
+基于uni框架的跨平台客户端app的电商实战项目，包括首页、列表页、详细页、分类、购物车页和会员中心。包含uni的大部分知识点，适合初学者学习和日常项目使用
+
+https://github.com/gs-wenbing/uni-mall
+
+
 ## 传统开源电商平台
 
 * OFBIZ (Apache-2.0)
