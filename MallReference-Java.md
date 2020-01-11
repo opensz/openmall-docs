@@ -59,6 +59,13 @@ https://gitee.com/fuyang_lipengjun/platform
 
 https://fly2you.cn/
 
+* 猫宁Morning公益商城
+
+猫宁Morning公益商城是中国公益性在线电子商城，以商城B2C模式运营的公益在线商城，是一家致力于将传统公益商城互联网化的创新公益商城。
+系统分为前台和后台,前台主要功能包括注册和登录、商品浏览、个人信息管理、购物车、我的订单、网上支付、评价、提问、公益活动、公益论坛、商城论坛等系统，后台主要功能包括管理成员信息管理、用户信息管理、商品管理、公益活动管理、商品分类管理、订单管理、公告资讯管理、论坛平台管理、商品提上管理、商品评价管理等。
+
+https://gitee.com/morning-pro/Morning
+
 * BroadleafCommerce
 
 Broadleaf Commerce - Enterprise eCommerce framework based on Spring http://www.broadleafcommerce.com
