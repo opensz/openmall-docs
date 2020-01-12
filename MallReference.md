@@ -1,6 +1,6 @@
+# 开源商城系统
 
-
-## 参考开源商城系统
+## 参考开源商城系统(Java为主)
 
 *  litemall (MIT)
 
@@ -45,11 +45,6 @@ vue后台前端：https://github.com/gz-yami/mall4v
 
 小程序：https://github.com/gz-yami/mall4m
 
-* wechat-app-mall (Apache-2.0)
-
-微信小程序商城，微信小程序微店
-
-微信前端：https://github.com/EastWorld/wechat-app-mall
 
 * 微同商城 （双协议，开源协议不明）
 
@@ -72,14 +67,113 @@ Broadleaf Commerce - Enterprise eCommerce framework based on Spring http://www.b
 
 https://github.com/BroadleafCommerce/BroadleafCommerce
 
+* zscat-me+uniapp+app+springcloud 商城
+
+基于springboot cloud构建的一个商城项目，包括前端，后端和h5应用，小程序，作为zscat应用实践的模板项目。基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构。并引入组件化的思想实现高内聚低耦合，[ 微信 + 支付宝 + 百度 + 头条 ] 小程序 + APP + 公众号 + PC + H5 项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，积分商城，分销商城并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等
+
+https://gitee.com/catshen/zscat_sw
+
+* mallplus
+
+基于mall的扩展，部分收费
+https://github.com/zscat/mallplus
+
+## 参考开源商城系统（前端）
+
+* wechat-app-mall (Apache-2.0)
+
+微信小程序商城，微信小程序微店
+
+微信前端：https://github.com/EastWorld/wechat-app-mall
+
 * uni-mall
 
 基于uni框架的跨平台客户端app的电商实战项目，包括首页、列表页、详细页、分类、购物车页和会员中心。包含uni的大部分知识点，适合初学者学习和日常项目使用
 
 https://github.com/gs-wenbing/uni-mall
 
+* vant移动商城
 
-## 传统开源电商平台
+基于有赞 vant 组件库的移动商城
+
+https://github.com/qianzhaoy/vant--mobile-mall
+
+* vue-mall
+
+基于 vue+node+mongodb 实现一个锤子商城 http://mall.yucccc.com
+
+https://github.com/yucccc/vue-mall
+
+* Exrick xmall
+
+基于Vue开发的XMall商城前台页面 PC端 http://xmall.exrick.cn
+
+https://github.com/Exrick/xmall-front
+
+## 参考开源电商系统（PHP为主）
+
+* ECShop
+
+http://www.ecshop.com/
+
+商业版本ecshopx
+
+* Magento 2 (OSL 3.0)
+
+https://github.com/magento/magento2
+
+* Open Cart (GPL-3.0)
+
+(PHP) A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution. 
+https://www.opencart.com/
+
+https://github.com/opencart/opencart
+
+* EC-CUBE
+
+EC-CUBE is the most popular e-commerce solution in Japan https://www.ec-cube.net
+
+
+* WooCommerce (WordPress)
+
+WooCommerce是目前最流行的开源电子商务解决方案。它为超过37％的在线商店提供支持，WooCommerce已下载了14,095,679次。
+该电子商务解决方案旨在帮助用户将任何WordPress网站转变为电子商务商店，由同样受欢迎的WooThemes创建。 
+当然，在你使用更复杂的功能、技术支持时须付费。
+
+https://woocommerce.com/
+
+* X Cart
+
+http://x-cart.com
+
+* PaGO
+
+paGO Commerce is the Future of Joomla! E-Commerce
+
+https://www.corephp.com/joomla-products/pago-commerce
+
+* shpxo
+
+ShopXO免费开源商城系统、国内领先企业级B2C免费开源电商系统，包含PC、h5、微信小程序、支付宝小程序、百度小程序、头条&抖音小程序、QQ小程序，遵循Apache2开源协议发布、基于ThinkPHP5.1框架研发
+http://shopxo.net
+
+https://gitee.com/gongfuxiang/shopxo
+
+* Jshop小程序商城
+
+Jshop小程序商城，是一款开源的支持可视化布局的电商系统，包含微信小程序、支付宝小程序、APP、公众号、H5端、PC端、抖音小程序、今日头条小程序、皮皮虾小程序、西瓜视频小程序，为大中小企业提供移动电子商务优秀的解决方案。
+https://www.jihainet.com/
+
+https://gitee.com/hnjihai/jshop_mall
+
+* my-shop
+
+my-shop基于Spring+SpringMVC+Mybatis+Shiro+redis+Vue+Swagger2小程序商城+(vue)微信商城+综合管理后台+网站商城+运营商平台+APP平台+第三方平台 = 综合一体化平台.前后端分离,分布式敏捷开发系统架构，提供整套公共微服务服务模块：内容管理、支付中心、用户管理（包括第三方）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案， 致力打造通用综合一体化管理平台。
+
+https://gitee.com/tiankong0310/my-shop
+
+
+## 传统开源电商平台(JAVA)
 
 * OFBIZ (Apache-2.0)
 
@@ -98,3 +192,10 @@ https://gitee.com/jishenghua/JSH_ERP
 
 
 
+## 其他电商系统参考
+
+* DSC大商创
+
+B2B2C多商户商城系统
+
+https://www.dscmall.cn/
