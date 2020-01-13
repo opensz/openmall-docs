@@ -110,6 +110,12 @@ https://github.com/yucccc/vue-mall
 
 https://github.com/Exrick/xmall-front
 
+* Mall-Vue
+
+基于VUE + VUEX + iView做的一个电商网站前端项目
+
+https://github.com/PowerDos/Mall-Vue
+
 ## 参考开源电商系统（PHP为主）
 
 * ECShop
