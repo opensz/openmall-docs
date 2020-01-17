@@ -45,6 +45,11 @@ vue后台前端：https://github.com/gz-yami/mall4v
 
 小程序：https://github.com/gz-yami/mall4m
 
+* xmall
+
+基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 http://xmall.exrick.cn
+
+https://github.com/Exrick/xmall
 
 * 微同商城 （双协议，开源协议不明）
 
@@ -212,3 +217,18 @@ https://gitee.com/jishenghua/JSH_ERP
 B2B2C多商户商城系统
 
 https://www.dscmall.cn/
+
+## 其他商业产品
+
+* SAP hybrid
+
+* Demandware
+
+Grow your online business and build customer relationships — one order at a time. Exceed your goals and customer expectations. 
+
+https://www.salesforce.com/products/commerce-cloud/overview/
+
+* shopify
+
+Shopify是全球顶尖的一站式电商SaaS平台，其完善的生态系统集云端建站、库存管理、多渠道销售等功能和技术于一体，赋能来自约180个国家的100万家中小商户、大型零售贸易企业及全球知名品牌。
+https://www.shopify.com/
