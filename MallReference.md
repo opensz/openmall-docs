@@ -1,6 +1,6 @@
 # 开源商城系统
 
-## 参考开源商城系统(Java为主)
+## 参考开源商城系统mall(Java为主)
 
 *  litemall (MIT)
 
@@ -21,6 +21,14 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。
 https://github.com/macrozheng/mall-learning
 
+* yshop意象商城系统
+
+yshop基于当前流行技术组合的前后端分离商城系统： SpringBoot2+Jpa+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含商城、拼团、砍价、商户管理、 秒杀、优惠券、积分、分销等功能
+
+https://github.com/guchengwuyue/yshopmall
+
+https://github.com/guchengwuyue/yshopmall_qd
+
 * sdb-mall (Apache-2.0)
 
 极速开发微商城,分销商城的微服务分布式框架，前后端分离。
@@ -28,11 +36,6 @@ sdb是一个轻量级的在renren-fast基础上利用jfinal架构二次开发的
 
 https://github.com/yjjdick/sdb-mall
 
-* Open-Shop
-
-Open-Shop小程序商城，包括：分销（支持三级）、团购（拼多多模式）、秒杀、优惠券、等功能，前后端全部开源。做全网最开源、最稳定、功能做强大的开源小程序商城。
-
-https://gitee.com/old-peanut/wechat_applet__open_source
 
 * mall4j (双协议，AGPLv3)
 
@@ -82,6 +85,28 @@ https://gitee.com/catshen/zscat_sw
 
 基于mall的扩展，部分收费
 https://github.com/zscat/mallplus
+
+## 参考开源商店系统shop(Java为主)
+
+* Open-Shop
+
+Open-Shop小程序商城，包括：分销（支持三级）、团购（拼多多模式）、秒杀、优惠券、等功能，前后端全部开源。做全网最开源、最稳定、功能做强大的开源小程序商城。
+
+https://gitee.com/old-peanut/wechat_applet__open_source
+
+* shopizer
+
+Shopizer java e-commerce software http://www.shopizer.com
+
+Java open source e-commerce software, include Shopping cart, Catalogue, Search, Checkout, Administration, REST API
+
+https://github.com/shopizer-ecommerce/shopizer
+
+* OWASP Juice Shop
+
+OWASP Juice Shop: Probably the most modern and sophisticated insecure web application http://owasp-juice.shop
+
+https://github.com/bkimminich/juice-shop
 
 ## 参考开源商城系统（前端）
 
@@ -211,6 +236,22 @@ https://gitee.com/jishenghua/JSH_ERP
 
 
 ## 其他电商系统参考
+
+* nodeshop
+
+NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS） https://www.nideshop.com/
+NideShop商城（服务端）
+界面高仿网易严选商城(主要是2016年wap版)
+测试数据采集自网易严选商城
+功能和数据库参考ecshop
+服务端api基于Ｎode.js+ThinkJS+MySQL
+计划添加基于Vue.js的后台管理系统、PC版、Ｗap版
+
+https://github.com/tumobi/nideshop
+
+https://github.com/tumobi/nideshop-mini-program
+
+https://github.com/saonian/nideshop_admin_full
 
 * DSC大商创
 
