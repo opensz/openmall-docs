@@ -57,3 +57,19 @@ PayMap是一个使用Java语言集成三方支付的小Demo，现已集成支付
 采用的技术栈为：SpringMVC+Spring+MyBatis+Shiro+RabbitMQ+Redis。
 
 https://github.com/Martin404/PayMap
+
+* IJPay
+
+聚合支付，IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。
+
+https://gitee.com/javen205/IJPay
+
+* Fastpay
+
+Fastpay的目标是打造一款开源的、轻量级的、微服务化的、可共私有云部署的、可定制化的集成聚合支付和资金清结算于一体的统一支付系统，满足互联网企业业务系统的收款和资金处理等需求。
+
+以龙果支付为基础，构建的统一支付系统聚合微信支付宝的扫码、被扫，H5等支付方式，并提供账务和企业资金处理能力，拟分解为：API管理，支付核心，路由渠道，账务账户，清结算、对账中心，商户平台，运营平台，商户通知，分布式任务调度系统，配置系统，客户系统，使用Spring Cloud进行微服务化，可公有云部署亦可私有云部署，提供完备的架构和设计文档、开发文档、API文档和商户/用户向导，并且配合《支付平台架构》一书出版。
+
+https://github.com/tangyinbo/fastpay
+
+https://gitee.com/thirdparty_resources/fastpay-github
