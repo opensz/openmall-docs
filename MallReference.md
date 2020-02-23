@@ -153,6 +153,13 @@ React实现服装商城项目
 
 https://github.com/tsejx/Mywork-ReactApp-Ecommerce
 
+* flyray-base
+
+flyray-base是一套包括组织机构、角色用户、权限授权、数据权限、内容管理、支付、对账、清结算、客户管理、营销活动、库存管理、搜索模块等分布式框架,使用Spring+SpringMVC+Mybatis+dubbox+redis+rocketmq+elasticsearch+shiro等技术栈rocketmq做统一的消息队列中心，通过动态切换数据库实现读写分离. 项目地址：
+http://www.flyray.me
+
+https://gitee.com/boleixiongdi/flyray
+
 ## 参考开源电商系统（PHP为主）
 
 * ECShop
@@ -167,7 +174,7 @@ https://github.com/magento/magento2
 
 * Open Cart (GPL-3.0)
 
-(PHP) A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution. 
+(PHP) A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 https://www.opencart.com/
 
 https://github.com/opencart/opencart
@@ -180,7 +187,7 @@ EC-CUBE is the most popular e-commerce solution in Japan https://www.ec-cube.net
 * WooCommerce (WordPress)
 
 WooCommerce是目前最流行的开源电子商务解决方案。它为超过37％的在线商店提供支持，WooCommerce已下载了14,095,679次。
-该电子商务解决方案旨在帮助用户将任何WordPress网站转变为电子商务商店，由同样受欢迎的WooThemes创建。 
+该电子商务解决方案旨在帮助用户将任何WordPress网站转变为电子商务商店，由同样受欢迎的WooThemes创建。
 当然，在你使用更复杂的功能、技术支持时须付费。
 
 https://woocommerce.com/
@@ -226,7 +233,7 @@ https://github.com/apache/ofbiz
 
 https://ofbiz.apache.org/
 
-* 华夏ERP/jshERP 
+* 华夏ERP/jshERP
 
 华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
 http://www.huaxiaerp.com
@@ -265,7 +272,7 @@ https://www.dscmall.cn/
 
 * Demandware
 
-Grow your online business and build customer relationships — one order at a time. Exceed your goals and customer expectations. 
+Grow your online business and build customer relationships — one order at a time. Exceed your goals and customer expectations.
 
 https://www.salesforce.com/products/commerce-cloud/overview/
 

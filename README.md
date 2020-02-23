@@ -16,5 +16,5 @@ OpenMall 开源电商平台/系统以及相关子系统/组件
 
 # 参考开源电商组件
 
-* [聚合支付/支付网关/支付组件](PaymentReference.md)
+* [聚合支付/支付网关/支付组件](payment/PaymentReference.md)
 * [预付卡/优惠券相关](CouponReference.md)
