@@ -73,3 +73,8 @@ Fastpay的目标是打造一款开源的、轻量级的、微服务化的、可�
 https://github.com/tangyinbo/fastpay
 
 https://gitee.com/thirdparty_resources/fastpay-github
+
+* aaden-pay
+面向互联网金融行业的支付系统(模块)
+
+https://gitee.com/aaden/aaden-pay
