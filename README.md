@@ -12,6 +12,11 @@ openmall项目是一套电商系统，包括前台商城系统及后台管理系
 
 查看文档 [OpenMall](openmall/README_openmall.md)
 
+Roadmap:
+- 1.x 基础电商平台，基于Mall改进  
+- 2.x 单商户多渠道电商平台
+- 3.x 多商户多渠道电商平台
+
 # 参考电商中台
 
 # 参考开源电商系统
