@@ -23,7 +23,7 @@ https://github.com/macrozheng/mall-learning
 zscat基于mall的修改版本，基于mall的扩展，部分收费。
 
 整体项目：
-https://github.com/zscat/mallplus
+https://gitee.com/zscat/mallplus
 
 前端项目：
 https://gitee.com/dsc_1688/mall-admin-web
